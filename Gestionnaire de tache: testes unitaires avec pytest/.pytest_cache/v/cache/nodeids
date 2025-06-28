@@ -1,0 +1,9 @@
+[
+  "test/test_todo.py::test_ajout_tache",
+  "test/test_todo.py::test_ajout_tache_vide",
+  "test/test_todo.py::test_completer_tache",
+  "test/test_todo.py::test_completer_tache_invalide",
+  "test/test_todo.py::test_listes_separees",
+  "test/test_todo.py::test_plusieurs_operations",
+  "test/test_todo.py::test_supprimer_tache"
+]
